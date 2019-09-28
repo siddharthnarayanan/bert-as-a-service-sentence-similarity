@@ -1,6 +1,8 @@
 # BERT-for sentence similarity
 
-Bidirectional Encoder Representations from Transformers or BERT has been a popular technique in NLP since Google open sourced it in 2018. Using minimal task-specific fine-tuning efforts, researchers have been able to surpass multiple benchmarks by leveraging pre-trained models that can easily be implemented to produce state of the art results. <br />
+Bidirectional Encoder Representations from Transformers or BERT has been a popular technique in NLP since Google open sourced it in 2018. Using minimal task-specific fine-tuning efforts, researchers have been able to surpass multiple benchmarks by leveraging pre-trained models that can easily be implemented to produce state of the art results. 
+
+<br /><br />
 
 ![Evolution of Sentence SImilarity Models](http://siddharthnarayanan.com/wp-content/uploads/2019/09/1_hPxezDTuv308MxlX03eYtg.png)
 
