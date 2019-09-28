@@ -4,7 +4,7 @@ Bidirectional Encoder Representations from Transformers or BERT has been a popul
 
 <br /><br />
 ![Evolution of Sentence SImilarity Models](http://siddharthnarayanan.com/wp-content/uploads/2019/09/1_hPxezDTuv308MxlX03eYtg.png)
-<br />
+<br /><br />
 
 For a detailed read, check out the [article](https://medium.com/analytics-vidhya/semantic-similarity-in-sentences-and-bert-e8d34f5a4677).
 
