@@ -13,7 +13,7 @@ pip install bert-serving-server  # server
 pip install bert-serving-client  # client, independent of `bert-serving-server`
 ```
 
-2. Start the BERT service
+2. Start the BERT service. Note that you will have to choose the correct path and pre-trained model name for BERT.
 
 ```python
 bert-serving-start -model_dir /tmp/english_L-12_H-768_A-12/ -num_worker=4 
